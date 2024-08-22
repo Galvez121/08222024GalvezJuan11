@@ -4,6 +4,7 @@ class Program
 {
     public static void Main(string[] args)
     {
+        // Module 1: 1.1
         string userName = "Lucinda Potter";
         string birthday = "6/24/1992";
         string workNumber = "000-000-0101";
